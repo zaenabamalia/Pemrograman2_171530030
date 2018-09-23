@@ -17,8 +17,8 @@ public class DemoAritmatika{
 
         //pengurangan angka
         System.out.println("Substracting...");
-        System.out.println(" i - j = " + (i*j));
-        System.out.println(" x - y = " + (x*y));
+        System.out.println(" i - j = " + (i-j));
+        System.out.println(" x - y = " + (x-y));
 
         //perkalian angka
         System.out.println("Multiplying...");
