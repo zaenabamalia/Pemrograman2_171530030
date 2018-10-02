@@ -1,0 +1,24 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - DemoJOptionPane1",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "stopOnEntry": false,
+            "mainClass": "DemoJOptionPane1",
+            "args": ""
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - GetInputReader2",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "stopOnEntry": false,
+            "mainClass": "GetInputReader2",
+            "args": ""
+        }
+    ]
+}
